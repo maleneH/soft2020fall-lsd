@@ -33,3 +33,7 @@ Example contract repository
 | Information (about students) |   x   |     |
 | Text File    |       |     |
 | List of Courses|  x  |     |
+
+## Logical Data Model
+
+![](materials/ldm.png)
