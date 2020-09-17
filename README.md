@@ -36,4 +36,6 @@ Example contract repository
 
 ## Logical Data Model
 
-![](materials/ldm.png)
+![alt text](https://github.com/maleneH/LSD--TeamA/blob/master/LDM.png)
+
+
